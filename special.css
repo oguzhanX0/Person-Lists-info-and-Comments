@@ -1,0 +1,40 @@
+.list-group-item{
+    padding-bottom: 10px;
+    padding-top: 20px;
+    border: 1px solid black;
+    font-size: 19px;
+    background-color: rgb(225, 230, 229);
+}
+
+.list-group{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.hood{
+    padding-left: 25px;
+    font-size: 21px;
+    background-color: rgb(113, 163, 196);
+    color: rgb(0, 0, 0);
+}
+
+.iconteam{
+    font-size: 28px;
+    color: blue;
+}
+
+.humanCards{
+    background-color: rgb(124, 124, 150);
+}
+
+
+.Head{
+    font-size: 22px;
+    color: rgb(0, 0, 0);
+}
+
+.buttonOne{
+    color: blue;
+    font-size: 18px;
+    margin-left: 120px;
+}
