@@ -38,6 +38,7 @@ function AllCards(cardContain,data){
             <li class="list-group-item">${"<b>Phone :</b>"} ${datas.phone}</li>
             <li class="list-group-item">${"<b>Email :</b>"} ${datas.email}</li>
             <li class="list-group-item">${"<b>Website :</b>"} ${datas.website}</li>
+            <li class="list-group-item">${"<b>Comments :</b>"} <a href="posts.html?userId=${datas.id}">Comments</a></li>
         </ul>
     </div>`).join(" ")
     
